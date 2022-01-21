@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/register_neolegal/static/css/main.1a8a0596.css",
+    "main.js": "/register_neolegal/static/js/main.43e68b32.js",
+    "index.html": "/register_neolegal/index.html",
+    "main.1a8a0596.css.map": "/register_neolegal/static/css/main.1a8a0596.css.map",
+    "main.43e68b32.js.map": "/register_neolegal/static/js/main.43e68b32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.43e68b32.js"
+  ]
+}
