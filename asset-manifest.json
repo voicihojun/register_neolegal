@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/register_neolegal/static/css/main.1a8a0596.css",
-    "main.js": "/register_neolegal/static/js/main.43e68b32.js",
+    "main.js": "/register_neolegal/static/js/main.7588d70a.js",
     "index.html": "/register_neolegal/index.html",
     "main.1a8a0596.css.map": "/register_neolegal/static/css/main.1a8a0596.css.map",
-    "main.43e68b32.js.map": "/register_neolegal/static/js/main.43e68b32.js.map"
+    "main.7588d70a.js.map": "/register_neolegal/static/js/main.7588d70a.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
-    "static/js/main.43e68b32.js"
+    "static/js/main.7588d70a.js"
   ]
 }
