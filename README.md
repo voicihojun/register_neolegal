@@ -2,7 +2,7 @@
 
 ## Introduction
 
-J'ai implementé cette application en utilisant l'exigence ci-dessous. Si vous voulez, vous pouvez checker si cela fonctionne bien dans le site(http://voicihojun.github.io/neolegal).
+J'ai implementé cette application en utilisant l'exigence ci-dessous. Si vous voulez, vous pouvez checker si cela fonctionne bien dans le site(https://voicihojun.github.io/register_neolegal).
 
 ## Requirements
 
